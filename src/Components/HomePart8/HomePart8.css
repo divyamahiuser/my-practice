@@ -1,0 +1,125 @@
+.Ban2img {
+    margin-left: -100px;
+}
+
+.homepart8 {
+    width: 1150px;
+    height: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.simpletogetStarted {
+    margin-top: -1030px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.simpletoget-circle {
+    width: 6px;
+    height: 6px;
+    border-radius: 100%;
+    border: 3px solid #fb5175;
+    margin-left: 120px;
+}
+
+.simpletoget-img {
+    margin-left: 20px;
+}
+
+.simpletoget-green-circle {
+    width: 10px;
+    height: 10px;
+    background-color: #29e6c0;
+    border-radius: 100%;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+
+.simpletoget-green-border-circle {
+    width: 13px;
+    height: 13px;
+    border: 4px solid #2dcbe7;
+    border-radius: 100%;
+    float: right;
+    margin-top: 90px;
+    margin-right: 160px;
+}
+
+.simpletoget-right {
+    width: 513.5px;
+    height: auto;
+    padding-top: 28px;
+}
+
+.simpletoget-h6 {
+    padding-bottom: 13px;
+}
+
+.simpletoget-green-circle-two {
+    width: 10px;
+    height: 10px;
+    background-color: #29e6c0;
+    border-radius: 100%;
+    margin-left: 470px;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+
+.simpletoget-left {
+    width: 557px;
+    height: auto;
+}
+
+.call-left {
+    display: flex;
+    width: 256.75px;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-right {
+    display: flex;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-circle {
+    width: 47.47px;
+    height: 47.47px;
+    /* border-radius: 100%;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px #dbdbdb;
+    line-height: 1;
+    rotate: 70deg; */
+    margin-right: 15px;
+}
+
+.call-img {
+    rotate: -70deg;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.simpletoget-call-email {
+    margin-top: -200px;
+    margin-left: 600px;
+    width: 600px;
+    display: flex;
+}
+
+.say-hello {
+    margin-bottom: 20px;
+    text-decoration: none;
+    height: 28px;
+    color: #696969;
+}
+
+.triangle-svg-two {
+    rotate: 180deg;
+    margin-left: 550px;
+    margin-top: -20px;
+    box-sizing: border-box;
+}

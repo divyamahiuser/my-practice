@@ -1,0 +1,117 @@
+.homepart9-container {
+    width: 100%;
+    max-width: 1170px;
+    height: 100%;
+    min-height: 1660px; 
+    overflow: hidden;
+    margin-top: -250px;
+    margin-bottom: 20px;
+}
+
+.homepart9-content {
+    margin-top: -1500px;
+    width: 100%;
+    max-width: 1170px;
+    height: 100%;
+    min-height: 1660px; 
+}
+
+.homepart9-h6 {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 13px;
+}
+
+.homepart9-h2 {
+    width: 100%;
+    max-width: 790px;
+    font-weight: 500;
+    font-size: 29px;
+    color: #0a0114;
+    font-family: var(--poppins);
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.boxcontainer-img {
+    height: auto;
+}
+
+.boxcontainer-h4 {
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-family: var(--poppins);
+    font-weight: 600;
+    line-height: 34px;
+    font-style: normal;
+}
+
+.boxcontainer-p {
+    text-align: justify;
+    width: 100%;
+    max-width: 374.23px;
+    height: auto;
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    box-sizing: border-box;
+}
+
+.homepart9-svg {
+    width: 100%;
+    max-width: 1170px;
+    position: relative;
+    z-index: -1;
+}
+
+.box-container {
+    width: 541.5px;
+    height: auto;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* box-shadow: -1px -1px 5px rgb(235, 235, 235), 1px 1px 20px rgb(235, 235, 235); */
+    box-shadow: 0px 7px 20px 0px rgba(42.000000000000156, 22.000000000000014, 139, 0.08);;
+}
+
+.figure {
+    margin-right: 15px;
+}
+
+.homepart9-mainheadings {
+    margin-bottom: 33px;
+}
+
+.homepart9-box-container {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: grid;
+    gap: 2rem;
+}
+
+.homepart9-box1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Firstbox {
+    width: auto;
+    height: 100%;
+    min-height: 341px;
+}
+
+.HSecondbox {
+    width: auto;
+    min-height: 285px;
+}
+
+.Thirdbox {
+    width: auto;
+    height: 100%;
+    min-height: 425px;
+}

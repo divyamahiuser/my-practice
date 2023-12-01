@@ -1,0 +1,32 @@
+/* aligning items center horizontally and vertically*/
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*baseline align items*/
+.center-baseline {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+/* justifying content space between*/
+.spacebtw {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*to center horizontally*/
+.margin {
+    margin: 0 auto;
+}
+
+/*to wrap the text*/
+.flexwrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,42 @@
+.services-we {
+    font-style: normal;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+.h2-our-software {
+    font-size: 29px;
+    font-family: var(--poppins);
+    color: #0A0114;
+    font-weight: 600;
+    text-align: center;
+}
+
+.gap-para {
+    width: 18%;
+    height: 207px;
+}
+
+.paragraphs-gaps-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 30px;
+}
+
+.third {
+    width: 82%;
+    text-align: left;
+}
+
+@media (max-width: 767px) {
+    .gap-para {
+        display: none;
+    }
+
+    .third {
+        width: 100%;
+        padding: 0px 15px;
+    }
+}

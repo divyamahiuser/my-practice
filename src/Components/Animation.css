@@ -1,0 +1,72 @@
+.ser01 {
+    animation: ser01 4.5s infinite linear;
+    min-width: 103px;
+    width: 100%;
+    max-width: 581.39px;
+    height: auto;
+}
+
+.movingImage {
+    animation: movingImage 4.5s infinite linear;
+    z-index: -1;
+    position: relative;
+}
+
+
+.loading-lefttoright {
+    animation: loading-lefttoright 1.5s infinite ease-in-out;
+}
+
+@keyframes movingImage {
+    0% {
+        transform: translate(14px, 21px);
+    }
+
+    25% {
+        transform: translate(0, 14px);
+    }
+
+    50% {
+        transform: translate(14px, 7px);
+    }
+
+    75% {
+        transform: translate(0, 14px);
+    }
+
+    100% {
+        transform: translate(14px, 21px);
+    }
+}
+
+@keyframes loading-lefttoright {
+    0% {
+        transform: translate(-155px, 0px);
+    }
+
+    100% {
+        transform: translate(155px, 0px);
+    }
+}
+
+@keyframes ser01 {
+    0% {
+        transform: translate(14px, 21px);
+    }
+
+    25% {
+        transform: translate(0, 14px);
+    }
+
+    50% {
+        transform: translate(14px, 7px);
+    }
+
+    75% {
+        transform: translate(0, 14px);
+    }
+
+    100% {
+        transform: translate(14px, 21px);
+    }
+}

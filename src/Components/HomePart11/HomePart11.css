@@ -1,0 +1,111 @@
+.homepart11container {
+    width: 1120px;
+    display: flex;
+    height: 759px;
+    justify-content: space-between;
+    padding: 75px 0px 103px;
+    box-sizing: border-box;
+}
+
+.homepart11-maincontainer {
+    width: 1140px;
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.Ban14img {
+    float: right;
+    margin-right: 300px;
+}
+
+.Vec03img {
+    width: 505.11px;
+    height: auto;
+    transition: all 0.3s ease-in-out ;
+    -webkit-transition: all .3s ease-in-out;
+}
+
+.Vec03img:hover {
+    margin-left: -15px;
+    transition: all 0.3s ease-in-out ;
+    -webkit-transition: all .3s ease-in-out;
+}
+
+.Home17img-div {
+    width: 100.8px;
+    height: 28px;
+    margin-top: -10px;
+}
+
+.textandform {
+    width: 506.61px;
+    height: auto;
+}
+
+.formdata-container {
+    width: auto;
+}
+
+.formdata-inputdiv {
+    width: 506.61px;
+}
+
+.formdata-inputs, .formdata-inputmessage {
+    box-sizing: border-box;
+    background-color: #FAFAFA;
+    border-radius: 4px;
+    width: 100%;
+    border: 1px solid #D0DCEC;
+    word-spacing: 1px;
+    color: #696969;
+    font-family: var(--nunito);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.formdata-inputs::placeholder {
+    word-spacing: 1px;
+    color: #696969;
+    font-family: var(--nunito);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.formdata-inputs {
+    height: 55px;
+    line-height: 55px;
+    padding: 0 20px; 
+    margin-bottom: 10px;
+}
+
+.formdata-inputs:hover {
+    border: 1px solid #104CBA;
+}
+
+.formdata-inputmessage {
+    width: 506.61px;
+    height: 120px;
+    line-height: 28px;
+    padding: 12px 20px; 
+    resize: none;
+    overflow: auto;
+}
+
+.formdata-inputmessage:hover {
+    border: 1px solid #104CBA;
+}
+
+.formdata-textarea {
+    width: 506.61px;
+    overflow: hidden;
+}
+
+.formdata-inputs:focus, .formdata-inputmessage:focus {
+    outline: none;
+}
+
+.Home15img {
+    margin-left: 100px;
+    margin-bottom: -20px;
+}
